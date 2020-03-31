@@ -1,1 +1,6 @@
+ServerAgent-2.2.1.rar 是在服务器上拉起的软件（与nmon有点类似），与Jmeter配合使用的，我们之前用的Jmeter匹配的版本是2.13，不知你手头上的版本是否匹配
 
+用法可以参考以下的链接：
+https://jingyan.baidu.com/article/7908e85cbaa401af481ad285.html
+http://www.51testing.com/html/15/n-3726415.html
+https://www.cnblogs.com/insane-Mr-Li/p/10727698.html
